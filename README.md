@@ -11,4 +11,8 @@ ada beberapa roles:
 - Data Engineer, yang membangun pipeline data dan membangun infrastruktur
 - Data Analyst, yang mengolah data dengan tools untuk memberikan arti terhadap data, salah satunya dengan visualisasi
 
+# yang perlu dipelajari
+
+Data science adalah gabungan dari statistik, aljabar linear, Programming, & data pipeline. data science menjadi bidang yang relevan dengan semakin banyaknya data di sekitar kita dan data tersebut cukup mudah untuk dileverage. dekade belakangan ada istilah big data ( data besar ), istilah big data adalah semakin banyaknya data baik yang terstruktur maupun tidak.
+
 
