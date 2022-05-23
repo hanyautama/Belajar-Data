@@ -15,4 +15,7 @@ ada beberapa roles:
 
 Data science adalah gabungan dari statistik, aljabar linear, Programming, & data pipeline. data science menjadi bidang yang relevan dengan semakin banyaknya data di sekitar kita dan data tersebut cukup mudah untuk dileverage. dekade belakangan ada istilah big data ( data besar ), istilah big data adalah semakin banyaknya data baik yang terstruktur maupun tidak.
 
+Data science adalah dampak dari :
+- Cloud
+- Big Data
 
